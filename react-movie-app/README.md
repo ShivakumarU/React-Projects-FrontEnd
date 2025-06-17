@@ -14,7 +14,7 @@ A movie search and favorite app built using **React** and the **OMDb API**.
 
 ```bash
 git clone https://github.com/ShivakumarU/React-Projects-FrontEnd.git
-cd <repo-name>
+cd .\React-Projects-FrontEnd\react-movie-app\
 npm install
 npm run dev
 
