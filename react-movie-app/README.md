@@ -13,11 +13,21 @@ A movie search and favorite app built using **React** and the **OMDb API**.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/ShivakumarU/React-Projects-FrontEnd.git
 cd <repo-name>
 npm install
 npm run dev
 
 
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🔍 Search Result
+![Search Result](./screenshots/search-result.png)
+
+### ❤️ Favorites Page
+![Favorites Page](./screenshots/favorites.png)
 
